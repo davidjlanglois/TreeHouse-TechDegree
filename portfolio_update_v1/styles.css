@@ -196,6 +196,15 @@ a.social:hover {
   margin-top: 60px;
 }
 
+.exp-subhead {
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.10);
+  padding: 5px;
+  margin-left: 30%;
+  margin-right: 30%;
+  background: white;
+  border: 1px black solid;
+}
+
 /* Styles for larger screens */
 @media screen and (min-width: 720px) {
   
